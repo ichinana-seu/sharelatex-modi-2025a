@@ -1,0 +1,2 @@
+tlmgr update --self --all
+tlmgr install scheme-full
